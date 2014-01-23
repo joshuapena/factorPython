@@ -4,7 +4,7 @@
 import sys
 
 # - -
-# This program factors one negative (b) and one positive (c) number
+# This program factors two negative numbers
 
 def factor00(additionGoal, multiplyGoal):
   num1 = 0
